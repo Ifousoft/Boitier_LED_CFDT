@@ -13,3 +13,9 @@ D'après les calculs, le boitier devrait fonctionner sur pile pendant environ 1 
 Le boitier comprends un arduino pour la partie processeur, une LED, orange (forcément), un bouton de réinitialisation et un mini capteur PIR pour détecter les passages des personnes.
 
 ![CFDT_Boitier](https://user-images.githubusercontent.com/99138693/157608765-7e4a2594-fa21-4e64-884f-fd3f50251ea6.png)
+
+PS: ayant réalisé une première version mais sans horloge, j'ai fais cette seconde version. Le code fonctionne et le schéma électronique est OK.
+Néanmoins, je n'ai pas testé la réalisation du PCB ni vérifier l'impression 3D du boitier pour valider l'assemblage de tous les composants.
+N'hesitez pas à effectuer des modifications si nécessaire.
+
+Ifousoft.
